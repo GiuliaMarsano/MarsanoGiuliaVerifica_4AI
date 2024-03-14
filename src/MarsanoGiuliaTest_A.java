@@ -30,5 +30,7 @@ class MarsanoGiuliaTest_A {
 		assertEquals(336, c.MarsanoMet(6,8)); //sintetico
 		//Risultato ottenuto:0
 	}
+	
+	//cambiamento per commit and push
 
 }
