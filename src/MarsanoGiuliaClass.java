@@ -27,7 +27,7 @@ public class MarsanoGiuliaClass {
 	public int MarsanoMet(int s,int f) {
 		int r=0;
 		for(int i=1;i<f;i++) {
-			r=r+r;
+			r=r+r;//Errore non trovato
 		}
 		return r;
 	}
